@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sravani Reddy</h1>
-<h3 align="center">An Enthusiast Programmer</h3>
+<h3 align="center">An Enthusiastic Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sravanireddy-002&label=Profile%20views&color=0e75b6&style=flat" alt="sravanireddy-002" /> </p>
