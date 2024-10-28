@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Sravani Reddy</h1>
 <h3 align="center">An Enthusiast Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanireddy-002&label=Profile%20views&color=0e75b6&style=flat" alt="sravanireddy-002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sravanireddy-002&label=Profile%20views&color=0e75b6&style=flat" alt="sravanireddy-002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanireddy-002" alt="sravanireddy-002" /></a> </p>
 
@@ -14,6 +13,8 @@
 - 📫 How to reach me **sravanipisati002@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
